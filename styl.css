@@ -1,0 +1,103 @@
+html, body{
+	background-color: #89f6bb;
+	color:#000;
+	margin:0;
+	padding:0;
+	
+}
+
+#wrap{
+	text-align:center;
+	background-image:url(/p.gif);
+	background-repeat:repeat-x;
+}
+
+#main{
+	position:relative;
+	background-image:url(/tlo.gif);
+	background-repeat:no-repeat;
+	margin-left:auto;
+	margin-right:auto;
+	font-family:MaszynaAEG;
+	width:670px;
+	height:660px;
+}
+
+#banner{
+	text-shadow: #000 2px 2px 2px;
+	color: #D21804;
+	font-size:28px;
+	line-height:36px;
+	padding-right:260px;
+	padding-top:90px;
+	padding-left:25px;
+	padding-bottom:0px;
+}
+#menu{
+	
+	font-family:MaszynaAEG;
+	line-height:20px;
+	padding-left:110;
+	padding-top:7px;
+	text-align:left;
+	font-size:15px;
+}
+#tresci{
+	margin-top:22px;
+	font-family:arial;
+	line-height:16px;
+	margin-left:110px;
+	margin-right:110px;
+	text-align:left;
+	
+}
+
+#footer{
+	position:absolute;
+	bottom:0;
+	padding-bottom:30px;
+	text-align:center;
+	font-family:arial;
+	font-size:11px;
+	width:100%;
+}
+
+.tresc{
+	font-family:MaszynaAEG;
+	text-align:justify;
+	font-size:12px;
+	line-height:25px
+}
+
+.trescform{
+	font-family:MaszynaAEG;
+	text-align:right;
+	font-size:11px;
+}
+
+a{
+	text-decoration:none;
+	color: #03f;
+}
+a:visited{
+	color: #03f;
+}
+
+a:active{
+	color: #f00;
+}
+
+a:hover{
+	
+	text-shadow: #00f 1px 1px 2px;
+}
+
+@font-face{
+	font-family:MaszynaAEG;
+	src: url(MaszynaAEG.ttf);
+	
+}
+@font-face{
+	font-family:Mistral;
+	src: url(MISTRAL.TTF);
+}

@@ -1,0 +1,1 @@
+<?php$a = date('Y');?><?=$a?> &copy; <a href='http://start.charmuszko.pl'>charmuszko.pl</a>
