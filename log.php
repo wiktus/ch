@@ -29,3 +29,4 @@ if (isset($_SERVER['HTTP_USER_AGENT'])){
 setcookie('byl', 'tak', 0 );	
 header('Content-Type: text/html; charset=utf-8');
 ?>
+#komentarz
